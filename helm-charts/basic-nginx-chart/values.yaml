@@ -1,5 +1,5 @@
 replicaCount: 4
-namespace: default
+namespace: harness-delegate-ng
 image:
   repository: nginx
   tag: stable111
